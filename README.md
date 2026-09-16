@@ -1,2 +1,2 @@
-# Homelab-with-Dell-Wyse-3040-2GB-Intel-Atom-eMMC-16-GB
+# Homelab-with-Dell
 My First Homelab. 
